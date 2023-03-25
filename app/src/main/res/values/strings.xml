@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string-array name="labels_array">
+        <item>Did and did not</item>
+        <item>Did</item>
+        <item>Not Did</item>
+
+    </string-array>
+</resources>
